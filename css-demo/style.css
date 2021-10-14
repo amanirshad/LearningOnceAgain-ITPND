@@ -1,0 +1,33 @@
+body{
+    background: url(/img.jpeg);
+    text-align: center;
+}
+h1{
+    color: #264653;
+}
+h2{
+    color: #2a9d8f;
+}
+p{
+    color: #e76f51;
+ background-color: rgba(196, 196, 196, 0.3);
+ padding: 40px 5px;
+ border-radius: 5px;
+ width: 40%;
+
+ margin: 20px auto;
+}
+ul{
+    width: 10%;
+    text-align: left;
+    margin: auto;
+}
+li{
+    color: #f4a261;
+}
+span{
+    color: #6b705c;
+}
+em{
+    color: #457b9d;
+}
